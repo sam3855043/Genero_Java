@@ -15,7 +15,7 @@ MAIN
     DISPLAY "It matches..."
   END IF
 
-  CALL Console.writeLine1("Hello, World");
+  CALL Console.writeLine("Hello, World");
   #LET h1 = Human.create("小婷");
   LET sb1 = StringBuffer.create("abcdef")
   #CALL Human.setValue(22, 178);
