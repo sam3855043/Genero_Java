@@ -1,5 +1,5 @@
-package cc.openhome.util;
 
+package Console;
 public class Console {
     public static void writeLine(String text) {
         System.out.println(text);
@@ -12,8 +12,8 @@ public class Console {
     }
 
     // 添加 main 方法作为程序入口
-    //public static void main(String[] args) {
+    // public static void main(String[] args) {
     //    Console console = new Console();
     //    console.writeLine("Welcome to Console!");
-    //}
+    // }
 }
