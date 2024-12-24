@@ -1,4 +1,4 @@
-cd Genero_JAVA
-export CLASSPATH=$PWD/console/Console.jar
-r.cs myjar
-fglrun myjar
+cd Genero_JAVA </br>
+export CLASSPATH=$PWD/console/Console.jar </br>
+r.cs myjar </br>
+fglrun myjar </br>
