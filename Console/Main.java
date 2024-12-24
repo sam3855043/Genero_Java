@@ -1,7 +1,7 @@
-import Console;
+import Con.Console;
 
 public class Main {
     public static void main(String[] args) {
-        Console.writeLine("Hello, World");
+        test.writeLine("Hello, World");
     }
 }
