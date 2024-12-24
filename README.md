@@ -2,3 +2,12 @@ https://openhome.cc/zh-tw/java/path-package-module/package-import/#google_vignet
 
 
 https://yubin551.gitbook.io/java-note/basic_java_programming/package_import
+
+https://openhome.cc/zh-tw/java/lambda/syntax/
+
+https://github.com/JustinSDK/JavaSE6Tutorial/blob/master/docs/CH18.md
+
+
+https://ithelp.ithome.com.tw/users/20130604/ironman/3749
+
+https://ithelp.ithome.com.tw/articles/10230427
