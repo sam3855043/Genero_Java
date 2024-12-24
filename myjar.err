@@ -1,5 +1,7 @@
 IMPORT JAVA java.util.regex.Pattern
 IMPORT JAVA Con.Console
+| Con.Console: class not found.
+| See error number -6222.
 #IMPORT JAVA cc.openhome.util.Console 
 IMPORT JAVA java.lang.StringBuffer
 MAIN
@@ -7,6 +9,8 @@ MAIN
   #DEFINE d Console
   DEFINE s STRING
   DEFINE h1 Human
+| type 'Human' not found.
+| See error number -8446.
   DEFINE sb1, sb2 StringBuffer
   LET p = Pattern.compile("a*b")
   
@@ -16,6 +20,8 @@ MAIN
   END IF
 
   CALL Console.writeLine("Hello, World");
+| variable 'Console' not found.
+| See error number -8446.
   #LET h1 = Human.create("小婷");
   LET sb1 = StringBuffer.create("abcdef")
   #CALL Human.setValue(22, 178);
