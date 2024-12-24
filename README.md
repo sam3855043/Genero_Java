@@ -2,10 +2,10 @@
  - cd src
  - javac -d . com/example/model/Person.java Main.java
  - java -cp . Main
-
  - export CLASSPATH=$PWD
-- cd .. 
+ - cd .. 
  - r.cs myjar
+ - fglrun myjar
 
 ## jar
  - cd src
