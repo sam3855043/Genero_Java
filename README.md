@@ -14,5 +14,10 @@ https://ithelp.ithome.com.tw/articles/10230427
 
 
 
-javac com/example/model/Person.java com/example/Main.java
-ava -cp . com.example.Main
+cd src
+java -cp . com.example.Main
+jar 包使用
+jar cvfm app.jar META-INF/MANIFEST.MF -C . com/example/model/Person.class com/example/Main.class
+java -jar app.jar
+
+
