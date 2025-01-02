@@ -11,3 +11,8 @@ https://github.com/JustinSDK/JavaSE6Tutorial/blob/master/docs/CH18.md
 https://ithelp.ithome.com.tw/users/20130604/ironman/3749
 
 https://ithelp.ithome.com.tw/articles/10230427
+
+
+
+javac com/example/model/Person.java com/example/Main.java
+ava -cp . com.example.Main
